@@ -10,7 +10,7 @@ The dataset that we will be wrangling (and analyzing and visualizing) is the twe
 WeRateDogs downloaded their Twitter archive. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
 #### Project Details
-our tasks in this project are as follows:
+Our tasks in this project are as follows:
 
 - Data wrangling, which consists of:
   - Gathering data.
